@@ -1,0 +1,17 @@
+{
+  "name": "devforaemas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prefecture.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "csv": "^5.3.1"
+  },
+  "dependencies": {
+    "jp-prefecture": "^0.2.1"
+  }
+}

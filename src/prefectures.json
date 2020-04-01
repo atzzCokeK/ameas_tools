@@ -1,0 +1,33 @@
+{
+    "values": [{
+        "keyValue": {
+            "partitionId": {
+                "projectId": "cb-app-stg"
+            },
+            "path": [{
+                "kind": "Prefecture",
+                "name": "hukui"
+            }]
+        }
+    }, {
+        "keyValue": {
+            "partitionId": {
+                "projectId": "cb-app-stg"
+            },
+            "path": [{
+                "kind": "Prefecture",
+                "name": "aichi"
+            }]
+        }
+    }, {
+        "keyValue": {
+            "partitionId": {
+                "projectId": "cb-app-stg"
+            },
+            "path": [{
+                "kind": "Prefecture",
+                "name": "shiga"
+            }]
+        }
+    }]
+}
